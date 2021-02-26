@@ -47,7 +47,7 @@ const Home = ({navigation}) => {
             <Text style={styles.descJudulHome}>E shopping</Text>
             <Text style={styles.descDeskripsiHome}>
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque
-              dolorum incidunt ab deserunt Hendra.
+              dolorum incidunt ab deserunt Hendra test.
             </Text>
           </View>
           <View style={styles.searchSetting}>
